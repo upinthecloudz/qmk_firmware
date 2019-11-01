@@ -5,9 +5,6 @@
 	path = lib/chibios-contrib
 	url = https://github.com/qmk/ChibiOS-Contrib
 	branch = k-type-fix
-[submodule "lib/ugfx"]
-	path = lib/ugfx
-	url = https://github.com/qmk/uGFX
 [submodule "lib/googletest"]
 	path = lib/googletest
 	url = https://github.com/google/googletest
